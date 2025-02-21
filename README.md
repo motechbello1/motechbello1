@@ -5,7 +5,7 @@
 I specialize in building **AI-powered solutions** that drive real-world impact. With expertise in **Python, Machine Learning, and Deep Learning**, I work on projects ranging from **predictive modeling to end-to-end ML system deployment**.
 
 ### 🔥 What I Do:
-- **Machine Learning & AI**: NLP, Computer Vision, Time Series, Generative AI
+- **Machine Learning & AI**: NLP, Computer Vision, Time Series, Generative AI, XAI
 - **Data Science**: Data Cleaning, Visualization, Feature Engineering
 - **MLOps & Deployment**: Docker, Flask, FastAPI, Streamlit, AWS/GCP
 - **Full-Stack ML**: Integrating AI models into web & mobile applications
