@@ -42,7 +42,8 @@ I specialize in building **AI-powered solutions** that drive real-world impact. 
 ---
 
 ## 📈 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=motechbello1&show_icons=true&theme=dark)
+
 
 ---
 
