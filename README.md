@@ -14,21 +14,36 @@ I specialize in building **AI-powered solutions** that drive real-world impact. 
 
 ## 🏆 Featured Projects
 
-### 1️⃣ [Fraud Detection System](https://github.com/yourusername/fraud-detection)
-🔹 Built an ML model to detect fraudulent transactions with **95% accuracy**
-🔹 Implemented feature engineering & ensemble learning
-🔹 Deployed using **Flask + FastAPI**
+1️⃣ Brain Tumor Detection (Machine Learning)
 
-### 2️⃣ [Customer Churn Prediction](https://github.com/yourusername/churn-prediction)
-🔹 Developed a **customer retention model** using XGBoost
-🔹 Created interactive dashboards with **Streamlit**
-🔹 Achieved a **20% increase in churn prediction accuracy**
+Developed a deep learning model to classify brain tumor images.
+Utilized CNN architecture for feature extraction and pattern recognition.
+Implemented data augmentation and preprocessing to improve performance.
+2️⃣ Malaria Detection using CNN
 
-### 3️⃣ [Image Classification with CNNs](https://github.com/yourusername/cnn-image-classification)
-🔹 Trained a deep learning model using **TensorFlow & PyTorch**
-🔹 Fine-tuned ResNet for improved accuracy
-🔹 Deployed as a web app with **Streamlit**
+Built a computer vision model to detect malaria in blood cell images.
+Applied convolutional neural networks for automated medical diagnosis.
+Preprocessed dataset with image normalization and augmentation techniques.
+3️⃣ Breast Cancer Detection (Machine Learning)
 
+Designed a model to classify breast cancer as benign or malignant.
+Used supervised learning algorithms for prediction and classification.
+Integrated feature selection techniques to enhance model efficiency.
+4️⃣ Pest Detection in Plants (ML-based)
+
+Created an image-based model to identify and categorize plant pests.
+Combined computer vision and deep learning for real-time detection.
+Developed a pipeline for automated analysis of agricultural data.
+5️⃣ Redundant Path Optimization Algorithm
+
+Engineered an algorithm to optimize pathfinding and reduce redundancy.
+Applied in network optimization, robotics, and logistics.
+Implemented using graph theory and heuristic search techniques.
+6️⃣ Financial Risk Assessment (Explainable AI - XAI)
+
+Built an AI-powered tool to analyze financial risk factors.
+Used Explainable AI (XAI) techniques to interpret model predictions.
+Integrated feature attribution methods for transparency in decision-making.
 ---
 
 ## 🛠 Tech Stack
