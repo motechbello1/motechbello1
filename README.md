@@ -19,26 +19,31 @@ I specialize in building **AI-powered solutions** that drive real-world impact. 
 Developed a deep learning model to classify brain tumor images.
 Utilized CNN architecture for feature extraction and pattern recognition.
 Implemented data augmentation and preprocessing to improve performance.
+
 2️⃣ Malaria Detection using CNN
 
 Built a computer vision model to detect malaria in blood cell images.
 Applied convolutional neural networks for automated medical diagnosis.
 Preprocessed dataset with image normalization and augmentation techniques.
+
 3️⃣ Breast Cancer Detection (Machine Learning)
 
 Designed a model to classify breast cancer as benign or malignant.
 Used supervised learning algorithms for prediction and classification.
 Integrated feature selection techniques to enhance model efficiency.
+
 4️⃣ Pest Detection in Plants (ML-based)
 
 Created an image-based model to identify and categorize plant pests.
 Combined computer vision and deep learning for real-time detection.
 Developed a pipeline for automated analysis of agricultural data.
+
 5️⃣ Redundant Path Optimization Algorithm
 
 Engineered an algorithm to optimize pathfinding and reduce redundancy.
 Applied in network optimization, robotics, and logistics.
 Implemented using graph theory and heuristic search techniques.
+
 6️⃣ Financial Risk Assessment (Explainable AI - XAI)
 
 Built an AI-powered tool to analyze financial risk factors.
